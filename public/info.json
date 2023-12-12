@@ -1,0 +1,99 @@
+[
+    {
+        "id":1,
+        "image": "https://i.ibb.co/d5NY6D8/m12.jpg",
+        "name":"Jony Barister",
+        "post":"CEO",
+        "expert":"Team Management & Copperate"
+    },
+
+    {
+        "id":2,
+        "image": "https://i.ibb.co/ftjgh46/m9.jpg",
+        "name":"Mark Wood",
+        "post":"Founder",
+        "expert":"Customer Relationship Management"
+    },
+
+    {
+        "id":3,
+        "image": "https://i.ibb.co/QKvmBvw/mw10.jpg",
+        "name":"Mahilay Juventus",
+        "post":"Co-Founder",
+        "expert":"Lead the Team & innovative"
+    },
+
+    {
+        "id":4,
+        "image": "https://i.ibb.co/jwcvk4g/m8.jpg",
+        "name":"Joy Root",
+        "post":"Co-Designer",
+        "expert":"Innovative Design & Idea"
+    },
+
+    {
+        "id":5,
+        "image": "https://i.ibb.co/ZJfwZp3/m6.jpg",
+        "name":"Tom Latham",
+        "post":"Chief Manager",
+        "expert":"Manage Economical Section"
+    },
+
+
+    {
+        "id":6,
+        "image": "https://i.ibb.co/x1NyTmK/m5.jpg",
+        "name":"Michel Hassi",
+        "post":"Co-Operator",
+        "expert":"Project Planner & Designer"
+    },
+
+    {
+        "id":7,
+        "image": "https://i.ibb.co/KW2KpLd/mw11.jpg",
+        "name":"Martin Guptil",
+        "post":"Co-Artist",
+        "expert":"Expo & Show Expert"
+    },
+
+    {
+        "id":8,
+        "image": "https://i.ibb.co/2cGzc25/m3.jpg",
+        "name":"David Wise",
+        "post":"Co-Planner",
+        "expert":"Leading of Plan Plan Excutive"
+    },
+
+    {
+        "id":9,
+        "image": "https://i.ibb.co/jfsjjT9/m4.jpg",
+        "name":"John Abraham",
+        "post":"Technical Consultant",
+        "expert":"Expert Technical Aside"
+    },
+
+    {
+        "id":10,
+        "image": "https://i.ibb.co/D5LzLLH/m2.jpg",
+        "name":"Tony Crrus",
+        "post":"Co-Planner",
+        "expert":"Expert Trade Show & Expo"
+    },
+
+    {
+        "id":11,
+        "image": "https://i.ibb.co/VBScmSV/mw7.jpg",
+        "name":"Liam Livingstone",
+        "post":"Co-Operator",
+        "expert":"Export Manage Conference"
+    },
+
+    {
+        "id":12,
+        "image": "https://i.ibb.co/q9rrzGS/m1.jpg",
+        "name":"Steven Smith",
+        "post":"Co-Planner",
+        "expert":"Expert Enthusthic Design"
+    }
+
+]  

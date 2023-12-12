@@ -1,0 +1,11 @@
+#sidebar a.active {
+    color: rgb(22, 210, 16);
+    background-color: white;
+  }
+
+  #sidbar:hover{
+
+
+     background-color: white;
+
+  }
